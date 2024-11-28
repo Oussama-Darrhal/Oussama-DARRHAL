@@ -1,7 +1,5 @@
 # 💫 About Me:
 Hi, I'm currently the CEO of DuCodex Web Solution, where I specialize in helping businesses thrive with cutting-edge web and mobile apps.<br>When I'm not building digital solutions, you’ll find me immersed in my favorite activities—basketball, football, and chess.<br><br><br><br><br><br><br>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Oussama.Derrhal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-darrhal) 
 
