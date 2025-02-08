@@ -8,7 +8,7 @@ Hi, I'm currently the CEO of DuCodex Web Solution, where I specialize in helping
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Oussama-DARRHAL&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Oussama-Darrhal&theme=aura)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Darrhal&theme=aura&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Darrhal&theme=aura)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Oussama-DARRHAL&theme=radical&no-frame=false&no-bg=true&margin-w=4)
