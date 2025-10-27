@@ -18,19 +18,19 @@ Problem-solving, project management, and independent execution
 
 ### Key Achievements:
 
-Led solo the development of a SaaS platform for industrial security, reducing page load time by 47% and cutting reported bugs by 30%
+#### Led solo the development of a SaaS platform for industrial security, reducing page load time by 47% and cutting reported bugs by 30%
 
-Redesigned critical UI components (dynamic sidebar, interactive charts) increasing user interaction speed by 40%
+#### Redesigned critical UI components (dynamic sidebar, interactive charts) increasing user interaction speed by 40%
 
-Built Learning Management System (LMS) with multi-user dashboards, video lessons, and automated certificate generation
+#### Built Learning Management System (LMS) with multi-user dashboards, video lessons, and automated certificate generation
 
-Building a Business Operating System (BOS) integrating AI-powered complaint management, inventory optimization, and analytics-ready dashboards.
+#### Building a Business Operating System (BOS) integrating AI-powered complaint management, inventory optimization, and analytics-ready dashboards.
 
-Freelance web projects generating +35% average traffic growth through SEO and performance optimization
+#### Freelance web projects generating +35% average traffic growth through SEO and performance optimization
 
-Languages: English (Fluent), French (Intermediate), German (Intermediate), Arabic (Native)
+## Languages: English (Fluent), French (Intermediate), German (Intermediate), Arabic (Native)
 
-I’m passionate about turning digital visions into reality and exceeding expectations with every project. Let’s connect and create something impactful.
+#### I’m passionate about turning digital visions into reality and exceeding expectations with every project. Let’s connect and create something impactful.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-darrhal) 
 
