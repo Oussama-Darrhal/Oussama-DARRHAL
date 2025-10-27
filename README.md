@@ -1,4 +1,6 @@
-# 💫 About Me:Oussama Darrhal | Full-Stack Developer (Laravel & React)
+##Oussama Darrhal | Full-Stack Developer (Laravel & React)
+
+# 💫 About Me:
 
 Full-stack developer with 5+ years of personal coding practice, turning ideas into scalable digital solutions since the age of 15. I focus on building web and SaaS platforms that are functional, high-performing, and user-friendly.
 
