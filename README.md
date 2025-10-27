@@ -22,7 +22,7 @@ Redesigned critical UI components (dynamic sidebar, interactive charts) increasi
 
 Built Learning Management System (LMS) with multi-user dashboards, video lessons, and automated certificate generation
 
-Developed Business Operating System (BOS) combining complaint management, inventory tracking, and analytics-ready dashboards
+Building a Business Operating System (BOS) integrating AI-powered complaint management, inventory optimization, and analytics-ready dashboards.
 
 Freelance web projects generating +35% average traffic growth through SEO and performance optimization
 
