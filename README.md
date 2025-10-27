@@ -3,7 +3,7 @@
 ## 💫 About Me:
 
 Full-stack developer with 5+ years of personal coding practice, turning ideas into scalable digital solutions since the age of 15. I focus on building web and SaaS platforms that are functional, high-performing, and user-friendly.
-
+------------------------------
 ### What I Can Do:
 
 Full-stack development: Laravel, React.js, Node.js, MySQL, REST APIs
@@ -15,6 +15,8 @@ Database management, multi-tenant architecture, and secure SaaS solutions
 DevOps: Docker, Git, version control, basic deployment
 
 Problem-solving, project management, and independent execution
+
+------------------------------
 
 ### Key Achievements:
 
@@ -28,9 +30,13 @@ Problem-solving, project management, and independent execution
 
 #### Freelance web projects generating +35% average traffic growth through SEO and performance optimization
 
-## Languages: English (Fluent), French (Intermediate), German (Intermediate), Arabic (Native)
+------------------------------
+
+#### Languages: English (Fluent), French (Intermediate), German (Intermediate), Arabic (Native)
 
 #### I’m passionate about turning digital visions into reality and exceeding expectations with every project. Let’s connect and create something impactful.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-darrhal) 
 
