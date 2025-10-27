@@ -4,7 +4,7 @@
 
 Full-stack developer with 5+ years of personal coding practice, turning ideas into scalable digital solutions since the age of 15. I focus on building web and SaaS platforms that are functional, high-performing, and user-friendly.
 
-What I Can Do:
+### What I Can Do:
 
 Full-stack development: Laravel, React.js, Node.js, MySQL, REST APIs
 
@@ -16,7 +16,7 @@ DevOps: Docker, Git, version control, basic deployment
 
 Problem-solving, project management, and independent execution
 
-Key Achievements:
+### Key Achievements:
 
 Led solo the development of a SaaS platform for industrial security, reducing page load time by 47% and cutting reported bugs by 30%
 
